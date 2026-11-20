@@ -1,0 +1,10 @@
+# Linux-Tech-Toolkit candidate package manifest
+# Not an executable installer; package names and availability depend on the selected distribution.
+# Base: git python3 python3-pip gcc gdb make cmake openssh-client
+# Disk: gparted smartmontools gddrescue
+# Network: wireshark nmap tcpdump iperf3 mtr
+# Serial: minicom picocom
+# Industrial: libmodbus-dev
+# Electronics: sigrok pulseview gtkwave
+# Virtualization: qemu-system-x86 virt-manager
+# Additional tools may require official vendor/project packages and hardware-specific setup.
